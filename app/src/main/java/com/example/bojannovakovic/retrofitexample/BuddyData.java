@@ -2,10 +2,6 @@ package com.example.bojannovakovic.retrofitexample;
 
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by bojan.novakovic on 7/24/2017.
- */
-
 public class BuddyData {
 
     @SerializedName("buddy_jid")
